@@ -1,0 +1,14 @@
+body{
+ text-align:center;   
+background-color:black;
+}
+.container{
+    background:white;
+}
+#opening{
+    border: 5%;
+    background:white;
+}
+#fn{
+    padding:50px;
+}
