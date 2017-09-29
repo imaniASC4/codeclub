@@ -1,14 +1,19 @@
 body{
  text-align:center;   
-background-color:black;
+background:url("codepics/blackmoving.gif");
+background-size:cover;
 }
-.container{
-    background:white;
+.jumbotron{
+    background-color:black;
+    color:white;
 }
 #opening{
-    border: 5%;
-    background:white;
+    border: 10%;
+   
 }
 #fn{
-    padding:50px;
+    padding:0px 50px 100px 50px;
+    color:white;
+    background:black;
+
 }

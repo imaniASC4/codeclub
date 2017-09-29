@@ -1,0 +1,22 @@
+body{
+    background-color:black;
+}
+#fn{
+    padding: 0px 50px 100px 50px;
+}
+#lessons{
+    text-align:center;
+
+}
+#words{
+    color:white;
+}
+#firstlesson{
+    padding:5% 0px 0px 0px;
+}
+#secondlesson{
+    padding:5% 0px 0px 0px;
+}
+#thirdlesson{
+    padding:5% 0px 0px 0px;
+}
